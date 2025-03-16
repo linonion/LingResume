@@ -4,7 +4,6 @@
 **Phone**: 617-671-5017  
 **Email**: [liuling201030@gmail.com](mailto:liuling201030@gmail.com)  
 **Location**: Massachusetts, United States  
-[LinkedIn](#) | [GitHub](#)
 
 ---
 
