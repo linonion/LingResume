@@ -49,7 +49,7 @@
 ## Projects
 
 ### LullAi Audiobooks with Real-Time Voice Cloning 
-[https://github.com/linonion/LullAi---Personalized-Audiobooks.git](#)
+[Github Repo]（https://github.com/linonion/LullAi---Personalized-Audiobooks.git）
 **Tech Stack**: Next.js, Tailwind CSS, Node.js, Express, MongoDB, AWS   
 - Implemented a real-time TTS and voice-cloning service powered by ElevenLabs APIs, achieving high-fidelity audio with minimal latency.  
 - Developed a Next.js frontend with Tailwind CSS, enabling user-friendly interfaces for text input, voice parameter customization, and audio streaming features.  
@@ -58,7 +58,7 @@
 - Utilized SQS and SNS for event-driven message queuing and notifications, ensuring reliable, asynchronous handling of voice generation workflows.
 
 ### AsyncFrame
-[https://github.com/linonion/Lin-Async-Frame.git](#)
+[Github Repo]（https://github.com/linonion/Lin-Async-Frame.git)
 **Tech Stack**: Java, Spring Boot, Mybatis, Redis, MySQL  
 - Developed a lightweight framework for managing asynchronous scenarios in machine learning data processing.  
 - Divided framework into two main components: `flowSVR` for task creation and workers handling and consuming existing tasks.  
@@ -66,7 +66,7 @@
 - Optimized application performance through Redis caching and MySQL connection pooling, increasing throughput from 500 QPS to 2000 QPS.
 
 ### B-CNNs for Multi-Label Facial Emotion Recognition
-[https://github.com/linonion/Multi-Label-FER.git](#)
+[Github Repo]（https://github.com/linonion/Multi-Label-FER.git）
 **Tech Stack**: Python, Google Cloud, PyTorch, OpenCV    
 - Implemented baseline models (two ResNet-10 backbones + HOG-based Logistic Regression) and introduced Bilinear Fusion (element-wise multiplication) for second-order feature interactions.  
 - Employed Weighted Binary Cross-Entropy Loss with label smoothing, alongside dropout and extensive data augmentation.  
